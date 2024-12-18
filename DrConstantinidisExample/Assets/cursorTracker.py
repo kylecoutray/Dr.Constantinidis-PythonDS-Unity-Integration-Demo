@@ -10,7 +10,7 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Cursor Tracker")
 
 # Open a file for writing cursor data
-output_file = open("D:\suchaklutch\DrConstantinidisExample\cursor_data.txt", "w")
+output_file = open("D:\suchaklutch\Dr.Constantinidis-PythonDS-Unity-Integration-Demo\DrConstantinidisExample\cursor_data.txt", "w")
 
 # Main loop
 running = True

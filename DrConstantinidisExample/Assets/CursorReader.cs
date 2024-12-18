@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CursorReader : MonoBehaviour
 {
-    private string filePath = "D:/suchaklutch/DrConstantinidisExample/cursor_data.txt";
+    private string filePath = "D:/suchaklutch/Dr.Constantinidis-PythonDS-Unity-Integration-Demo/DrConstantinidisExample/cursor_data.txt";
 
     void Update()
     {
